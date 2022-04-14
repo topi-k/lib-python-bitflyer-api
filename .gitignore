@@ -1,0 +1,4 @@
+bitfapi/__pycache__/*
+bitfapi/setting.py
+bitfapi/test.py
+bitfapi.egg-info
