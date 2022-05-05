@@ -1,5 +1,4 @@
 import json
-from numpy import double
 import requests
 import time
 import hmac
